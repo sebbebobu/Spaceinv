@@ -1,0 +1,51 @@
+package spaceinv.test;
+
+import spaceinv.model.IDrawable;
+import spaceinv.model.IMovable;
+
+public class TestShip implements IDrawable,IMovable {
+    @Override
+    public double getMinX() {
+        
+    }
+
+    @Override
+    public double getMinY() {
+
+    }
+
+    @Override
+    public double getWidth() {
+
+    }
+
+    @Override
+    public double getHeight() {
+
+    }
+
+    @Override
+    public void move() {
+
+    }
+
+    @Override
+    public void setDx(double dx) {
+
+    }
+
+    @Override
+    public void setDy(double dy) {
+
+    }
+
+    @Override
+    public double getDx() {
+
+    }
+
+    @Override
+    public double getDy() {
+
+    }
+}
